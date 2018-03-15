@@ -181,13 +181,13 @@ nav {
   background-attachment: scroll;
   background-size: 100%;
   margin-bottom: 50px;
-  text-align: center;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 20px;
   color: #404040;
+  text-align: center;
 }
 .intro-header .site-heading.archives,
 .intro-header .post-heading.archives,
@@ -338,7 +338,7 @@ nav {
   height: 50px;
 }
 .comment {
-  margin: 20px 0 10px;
+  margin: 20px 0 100px;
 }
 footer {
   padding: 50px 0 65px;
