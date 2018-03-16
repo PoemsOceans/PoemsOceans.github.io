@@ -257,9 +257,9 @@ nav {
   padding: 12px 0;
 }
 .post-preview p {
-  margin-left: 32%;
+  margin-left: 52%;
   padding-left: 0.6em;
-  font-size: 1.1em;
+  font-size: 0.8em;
   line-height: 1.5;
 }
 .post-preview blockquote {
@@ -290,7 +290,7 @@ nav {
   float: left;
   width: 30%;
   height: 100%;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 .post-preview > a > .post-title.archive {
   font-size: 22px;
@@ -346,6 +346,7 @@ nav {
 }
 .post-reward {
   text-align: center;
+  margin: 0px 0px 0px 10px;
 }
 .archive-before-pagination {
   height: 50px;
