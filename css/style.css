@@ -162,17 +162,6 @@ a.nav-back:hover,
 a.nav-back:focus {
   color: #ce2323;
 }
-a.nav-solo {
-  position: absolute;
-  top: 15px;
-  left: 15px;
-  color: dark;
-  z-index: 30;
-}
-a.nav-solo:hover,
-a.nav-solo:focus {
-  color: #ce2323;
-}
 nav {
   position: absolute;
   top: 0;
