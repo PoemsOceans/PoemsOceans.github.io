@@ -568,7 +568,7 @@ body {
 article .container .row img {
   clear: both;
   display: block;
-  margin: 10px auto;
+  margin: 30px auto;
   height: auto;
   max-width: 90% !important;
   position: relative;
@@ -599,7 +599,7 @@ article .container .row .video-container embed {
 article .container .row blockquote {
   font-family: "Georgia", serif;
   font-size: 1em;
-  padding: 3px 10px 15px;
+  padding: 3px 30px 15px;
   color: #808080;
   text-align: left;
 }
