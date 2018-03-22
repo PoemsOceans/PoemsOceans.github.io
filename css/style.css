@@ -472,13 +472,6 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
-.pagination {
-  margin: 0px;
-  width: 100%;
-  height: 5px;
-  color: rgba(0,0,0,0.5);
-  text-align: center;
-}
 .transition-all {
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
