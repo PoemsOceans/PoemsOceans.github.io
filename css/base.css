@@ -243,7 +243,7 @@ nav {
   clear: both;
 }
 .post-preview.archive {
-  padding: 2px 0;
+  padding: 10px 0;
 }
 .post-preview p {
   margin-left: 52%;
@@ -279,10 +279,10 @@ nav {
   float: left;
   width: 50%;
   height: 100%;
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
 .post-preview > a > .post-title.archive {
-  font-size: 22px;
+  font-size: 20px;
   width: 100%;
 }
 .post-preview img {
