@@ -69,20 +69,20 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[狐尾]]></title>
-    <url>%2F2018%2F02%2F27%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E7%8B%90%E5%B0%BE%2F%E7%8B%90%E5%B0%BE%2F</url>
-    <content type="text"><![CDATA[狐有九尾，人有千面。一面如藏，一面如见。初见还鲜，久处生厌。人心难得，人心易变。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
     <title><![CDATA[凉月]]></title>
     <url>%2F2018%2F02%2F27%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%87%89%E6%9C%88%2F%E5%87%89%E6%9C%88%2F</url>
     <content type="text"><![CDATA[欲坠滴荷露，如萤不可掬。摇船凉似梦，素手采芙蕖。]]></content>
       <categories>
         <category>《情书和海》</category>
         <category>五言绝句</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[狐尾]]></title>
+    <url>%2F2018%2F02%2F27%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E7%8B%90%E5%B0%BE%2F%E7%8B%90%E5%B0%BE%2F</url>
+    <content type="text"><![CDATA[狐有九尾，人有千面。一面如藏，一面如见。初见还鲜，久处生厌。人心难得，人心易变。]]></content>
+      <categories>
+        <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
@@ -263,17 +263,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[春天]]></title>
-    <url>%2F2017%2F12%2F30%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E6%98%A5%E5%A4%A9%2F%E6%98%A5%E5%A4%A9%2F</url>
-    <content type="text"><![CDATA[冬天过去春天就要复苏了我就站在幸福的河岸像按耐不住的种子]]></content>
+    <title><![CDATA[快乐]]></title>
+    <url>%2F2017%2F12%2F30%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E5%BF%AB%E4%B9%90%2F%E5%BF%AB%E4%B9%90%2F</url>
+    <content type="text"><![CDATA[我感到天空的快乐仿佛伸出的手指就要变成真实我所触碰的都变成眼睛一眨眼我就抓住了你]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[快乐]]></title>
-    <url>%2F2017%2F12%2F30%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E5%BF%AB%E4%B9%90%2F%E5%BF%AB%E4%B9%90%2F</url>
-    <content type="text"><![CDATA[我感到天空的快乐仿佛伸出的手指就要变成真实我所触碰的都变成眼睛一眨眼我就抓住了你]]></content>
+    <title><![CDATA[春天]]></title>
+    <url>%2F2017%2F12%2F30%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E6%98%A5%E5%A4%A9%2F%E6%98%A5%E5%A4%A9%2F</url>
+    <content type="text"><![CDATA[冬天过去春天就要复苏了我就站在幸福的河岸像按耐不住的种子]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -328,6 +328,14 @@
       </categories>
   </entry>
   <entry>
+    <title><![CDATA[无量]]></title>
+    <url>%2F2017%2F11%2F26%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%97%A0%E9%87%8F%2F%E6%97%A0%E9%87%8F%2F</url>
+    <content type="text"><![CDATA[缘也化，劫也化，满眼皆菩萨。有亦破，无亦破，立地即佛陀。]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[读史有感]]></title>
     <url>%2F2017%2F11%2F26%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E8%AF%BB%E5%8F%B2%E6%9C%89%E6%84%9F%2F%E8%AF%BB%E5%8F%B2%E6%9C%89%E6%84%9F%2F</url>
     <content type="text"><![CDATA[江山终易改，万古亘星辰。百代谁为主，千秋又一人。]]></content>
@@ -339,14 +347,6 @@
     <title><![CDATA[行吟图]]></title>
     <url>%2F2017%2F11%2F26%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E8%A1%8C%E5%90%9F%E5%9B%BE%2F%E8%A1%8C%E5%90%9F%E5%9B%BE%2F</url>
     <content type="text"><![CDATA[一叶轻舟小，行吟几月归？深山迷鹿迹，大雪没柴扉。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[无量]]></title>
-    <url>%2F2017%2F11%2F26%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%97%A0%E9%87%8F%2F%E6%97%A0%E9%87%8F%2F</url>
-    <content type="text"><![CDATA[缘也化，劫也化，满眼皆菩萨。有亦破，无亦破，立地即佛陀。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -640,6 +640,14 @@
       </categories>
   </entry>
   <entry>
+    <title><![CDATA[抚]]></title>
+    <url>%2F2016%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%8A%9A%2F%E6%8A%9A%2F</url>
+    <content type="text"><![CDATA[怜取掌心雀，抚之羽色鲜。生灵本骨肉，无私何有间？]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[日子]]></title>
     <url>%2F2016%2F04%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E6%97%A5%E5%AD%90%2F%E6%97%A5%E5%AD%90%2F</url>
     <content type="text"><![CDATA[日子习以为常 不免想起旧时光 问候他们和那些幻想忧愁的过往 别来无恙]]></content>
@@ -656,9 +664,9 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[抚]]></title>
-    <url>%2F2016%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%8A%9A%2F%E6%8A%9A%2F</url>
-    <content type="text"><![CDATA[怜取掌心雀，抚之羽色鲜。生灵本骨肉，无私何有间？]]></content>
+    <title><![CDATA[『孤生为岛』系列]]></title>
+    <url>%2F2016%2F03%2F26%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E3%80%8E%E5%AD%A4%E7%94%9F%E4%B8%BA%E5%B2%9B%E3%80%8F%E7%B3%BB%E5%88%97%2F%E3%80%8E%E5%AD%A4%E7%94%9F%E4%B8%BA%E5%B2%9B%E3%80%8F%E7%B3%BB%E5%88%97%2F</url>
+    <content type="text"><![CDATA[『孤生为岛』系列 鱼尾纹 危屿：孤身为岛]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -667,14 +675,6 @@
     <title><![CDATA[鱼尾纹]]></title>
     <url>%2F2016%2F03%2F26%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E3%80%8E%E5%AD%A4%E7%94%9F%E4%B8%BA%E5%B2%9B%E3%80%8F%E7%B3%BB%E5%88%97%2F%E9%B1%BC%E5%B0%BE%E7%BA%B9%2F%E9%B1%BC%E5%B0%BE%E7%BA%B9%2F</url>
     <content type="text"><![CDATA[写一封书信给所有未来的人们给每一个清晨与黄昏给远方的大海和所有幻想自由的飞鸟，以及鱼群还有那时的我们怀想如季节里的纯真来不及读懂故事中潸然别离印证现实独白的人生一条浅浅的鱼尾纹路过青春仓促的年轮记在初夏时分晚安，即梦之城晚安，恋人]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[『孤生为岛』系列]]></title>
-    <url>%2F2016%2F03%2F26%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E3%80%8E%E5%AD%A4%E7%94%9F%E4%B8%BA%E5%B2%9B%E3%80%8F%E7%B3%BB%E5%88%97%2F%E3%80%8E%E5%AD%A4%E7%94%9F%E4%B8%BA%E5%B2%9B%E3%80%8F%E7%B3%BB%E5%88%97%2F</url>
-    <content type="text"><![CDATA[『孤生为岛』系列 鱼尾纹 危屿：孤身为岛]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -880,17 +880,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[喷薄]]></title>
-    <url>%2F2015%2F07%2F12%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E5%96%B7%E8%96%84%2F%E5%96%B7%E8%96%84%2F</url>
-    <content type="text"><![CDATA[高淼出一世，纵横天地间。并与万物生，抉其风云战。势欲超极限，无畏征峰险。展眺更无前，穹苍不入眼。勃发凌空翔，炽热尽彰显。烜赫瀑光辉，安用自收敛。]]></content>
+    <title><![CDATA[石尊]]></title>
+    <url>%2F2015%2F07%2F12%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E7%9F%B3%E5%B0%8A%2F%E7%9F%B3%E5%B0%8A%2F</url>
+    <content type="text"><![CDATA[飒飒侵风雪，千里独纵横。杀人复来归，杯中酒尚温。饮罢弹宝剑，绝响震空林。取琴奏龙吟，穷壑希无声。老骥渐侠骨，白发识渔翁。坐化南山石，高台卧垂纶。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[石尊]]></title>
-    <url>%2F2015%2F07%2F12%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E7%9F%B3%E5%B0%8A%2F%E7%9F%B3%E5%B0%8A%2F</url>
-    <content type="text"><![CDATA[飒飒侵风雪，千里独纵横。杀人复来归，杯中酒尚温。饮罢弹宝剑，绝响震空林。取琴奏龙吟，穷壑希无声。老骥渐侠骨，白发识渔翁。坐化南山石，高台卧垂纶。]]></content>
+    <title><![CDATA[喷薄]]></title>
+    <url>%2F2015%2F07%2F12%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E5%96%B7%E8%96%84%2F%E5%96%B7%E8%96%84%2F</url>
+    <content type="text"><![CDATA[高淼出一世，纵横天地间。并与万物生，抉其风云战。势欲超极限，无畏征峰险。展眺更无前，穹苍不入眼。勃发凌空翔，炽热尽彰显。烜赫瀑光辉，安用自收敛。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -968,17 +968,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[漂泊]]></title>
-    <url>%2F2015%2F05%2F29%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E6%BC%82%E6%B3%8A%2F%E6%BC%82%E6%B3%8A%2F</url>
-    <content type="text"><![CDATA[在深蓝色的大海上我是一块浮冰我是化身孤岛的蓝鲸我是流浪的星星 顺着洋流前行游过礁石寻你像寻一盏塔灯穿过黑暗与潮涌的珊瑚群我是望向你深邃的眼睛 我是一条飞鱼拥有透明的眼泪和七秒记忆我有一个幻梦祈求一线光明从天堂降临 在漫无边际的海上漂流仿佛一只满载的许愿瓶我有一颗透明的心如同易碎的水晶珍存着以吻封笺的书信 被海浪冲向沙滩当你无意走近可会将它拾起拾起我满含期待的深情 在深蓝色的大海上我是一块浮冰我是化身孤岛的蓝鲸我是流浪的星星我是望向你的眼睛饱含深情 如同一朵积雨云渴望投向你以一滴泪水的纯净投入你的湖心波澜不惊]]></content>
+    <title><![CDATA[亲吻]]></title>
+    <url>%2F2015%2F05%2F29%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E4%BA%B2%E5%90%BB%2F%E4%BA%B2%E5%90%BB%2F</url>
+    <content type="text"><![CDATA[抱着木吉他流浪在城市的街角彷徨我是黑夜的孩子眼里藏不住悲伤 有没有梦的天堂容许我天真的幻想卸下生命的行囊张开自由的翅膀 可是我学不会飞翔始终也学不会成长学不会伪装也学不会对他人设防 我是如此倔强总爱与周遭对抗直到遍体鳞伤也不肯投降可知这就是我本来的模样 抱着木吉他流浪在城市的街角彷徨我是黑夜的孩子眼里藏不住悲伤 有没有梦的天堂容许我天真的幻想卸下生命的行囊张开自由的翅膀 我会带着对爱的渴望去到远方会有一阵风来自海洋将你温柔的轻抚化作一缕阳光 我会记着你灿烂的微笑去到天堂会有一阵风来自海洋将你轻声地问候化作一缕阳光 亲吻你甜美的脸庞]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[亲吻]]></title>
-    <url>%2F2015%2F05%2F29%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E4%BA%B2%E5%90%BB%2F%E4%BA%B2%E5%90%BB%2F</url>
-    <content type="text"><![CDATA[抱着木吉他流浪在城市的街角彷徨我是黑夜的孩子眼里藏不住悲伤 有没有梦的天堂容许我天真的幻想卸下生命的行囊张开自由的翅膀 可是我学不会飞翔始终也学不会成长学不会伪装也学不会对他人设防 我是如此倔强总爱与周遭对抗直到遍体鳞伤也不肯投降可知这就是我本来的模样 抱着木吉他流浪在城市的街角彷徨我是黑夜的孩子眼里藏不住悲伤 有没有梦的天堂容许我天真的幻想卸下生命的行囊张开自由的翅膀 我会带着对爱的渴望去到远方会有一阵风来自海洋将你温柔的轻抚化作一缕阳光 我会记着你灿烂的微笑去到天堂会有一阵风来自海洋将你轻声地问候化作一缕阳光 亲吻你甜美的脸庞]]></content>
+    <title><![CDATA[漂泊]]></title>
+    <url>%2F2015%2F05%2F29%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E6%BC%82%E6%B3%8A%2F%E6%BC%82%E6%B3%8A%2F</url>
+    <content type="text"><![CDATA[在深蓝色的大海上我是一块浮冰我是化身孤岛的蓝鲸我是流浪的星星 顺着洋流前行游过礁石寻你像寻一盏塔灯穿过黑暗与潮涌的珊瑚群我是望向你深邃的眼睛 我是一条飞鱼拥有透明的眼泪和七秒记忆我有一个幻梦祈求一线光明从天堂降临 在漫无边际的海上漂流仿佛一只满载的许愿瓶我有一颗透明的心如同易碎的水晶珍存着以吻封笺的书信 被海浪冲向沙滩当你无意走近可会将它拾起拾起我满含期待的深情 在深蓝色的大海上我是一块浮冰我是化身孤岛的蓝鲸我是流浪的星星我是望向你的眼睛饱含深情 如同一朵积雨云渴望投向你以一滴泪水的纯净投入你的湖心波澜不惊]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -1169,17 +1169,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[梵行]]></title>
-    <url>%2F2015%2F02%2F05%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E6%A2%B5%E8%A1%8C%2F%E6%A2%B5%E8%A1%8C%2F</url>
-    <content type="text"><![CDATA[不见如来不念她，不参禅道不修花。来生若变菩提树，半世婆娑半世沙。]]></content>
+    <title><![CDATA[出征]]></title>
+    <url>%2F2015%2F02%2F05%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%87%BA%E5%BE%81%2F%E5%87%BA%E5%BE%81%2F</url>
+    <content type="text"><![CDATA[铁骑向燕然，扬尘度汉关。匈奴十万户，斩尽马头还。&gt; 注：1.燕然勒功记；2.铁骑：此处读音为（jì），个人不赞同今音修改为（qí）的观点。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[出征]]></title>
-    <url>%2F2015%2F02%2F05%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%87%BA%E5%BE%81%2F%E5%87%BA%E5%BE%81%2F</url>
-    <content type="text"><![CDATA[铁骑向燕然，扬尘度汉关。匈奴十万户，斩尽马头还。&gt; 注：1.燕然勒功记；2.铁骑：此处读音为（jì），个人不赞同今音修改为（qí）的观点。]]></content>
+    <title><![CDATA[梵行]]></title>
+    <url>%2F2015%2F02%2F05%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E6%A2%B5%E8%A1%8C%2F%E6%A2%B5%E8%A1%8C%2F</url>
+    <content type="text"><![CDATA[不见如来不念她，不参禅道不修花。来生若变菩提树，半世婆娑半世沙。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -1257,17 +1257,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[弧刀]]></title>
-    <url>%2F2014%2F12%2F04%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%BC%A7%E5%88%80%2F%E5%BC%A7%E5%88%80%2F</url>
-    <content type="text"><![CDATA[钝首向天弯，弧锋半已残。狭刀一噬血，刃似月光寒。]]></content>
+    <title><![CDATA[眺关山]]></title>
+    <url>%2F2014%2F12%2F04%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E7%9C%BA%E5%85%B3%E5%B1%B1%2F%E7%9C%BA%E5%85%B3%E5%B1%B1%2F</url>
+    <content type="text"><![CDATA[连峰积皑雪，落日傍关山。断谷西风啸，嘶鸣马不前。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[眺关山]]></title>
-    <url>%2F2014%2F12%2F04%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E7%9C%BA%E5%85%B3%E5%B1%B1%2F%E7%9C%BA%E5%85%B3%E5%B1%B1%2F</url>
-    <content type="text"><![CDATA[连峰积皑雪，落日傍关山。断谷西风啸，嘶鸣马不前。]]></content>
+    <title><![CDATA[弧刀]]></title>
+    <url>%2F2014%2F12%2F04%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%BC%A7%E5%88%80%2F%E5%BC%A7%E5%88%80%2F</url>
+    <content type="text"><![CDATA[钝首向天弯，弧锋半已残。狭刀一噬血，刃似月光寒。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -1305,17 +1305,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[宿鹭]]></title>
-    <url>%2F2014%2F11%2F04%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%AE%BF%E9%B9%AD%2F%E5%AE%BF%E9%B9%AD%2F</url>
-    <content type="text"><![CDATA[冷岛霜蚀月，寒凝苇上烟。凌波知所向，渺渺水云间。]]></content>
+    <title><![CDATA[老人]]></title>
+    <url>%2F2014%2F11%2F04%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E8%80%81%E4%BA%BA%2F%E8%80%81%E4%BA%BA%2F</url>
+    <content type="text"><![CDATA[有一位老人，已近古稀之年，身体还算健朗，就是生活有些艰难，让人看了不忍有些心酸。住在半山腰的她每天都要提着满满一桶清水与一桶糠饲、来回三趟翻到山背去喂猪食，猪儿们也都长得白白胖胖很惹人疼爱。就是极不爱干净，栏里打扫起来很费功夫，不过老妈妈也从不埋怨，就像她曾经一手带大的九个孩子一样。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[老人]]></title>
-    <url>%2F2014%2F11%2F04%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E8%80%81%E4%BA%BA%2F%E8%80%81%E4%BA%BA%2F</url>
-    <content type="text"><![CDATA[有一位老人，已近古稀之年，身体还算健朗，就是生活有些艰难，让人看了不忍有些心酸。住在半山腰的她每天都要提着满满一桶清水与一桶糠饲、来回三趟翻到山背去喂猪食，猪儿们也都长得白白胖胖很惹人疼爱。就是极不爱干净，栏里打扫起来很费功夫，不过老妈妈也从不埋怨，就像她曾经一手带大的九个孩子一样。]]></content>
+    <title><![CDATA[宿鹭]]></title>
+    <url>%2F2014%2F11%2F04%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%AE%BF%E9%B9%AD%2F%E5%AE%BF%E9%B9%AD%2F</url>
+    <content type="text"><![CDATA[冷岛霜蚀月，寒凝苇上烟。凌波知所向，渺渺水云间。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -1409,17 +1409,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[草原]]></title>
-    <url>%2F2014%2F09%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E8%8D%89%E5%8E%9F%2F%E8%8D%89%E5%8E%9F%2F</url>
-    <content type="text"><![CDATA[你可愿与我一同去到我们的草原在那里相守静静地看着时光从指缝间流走你可愿与我一同去到我们的草原依偎在群山的怀抱里像绵羊一般温柔亲亲吻着彼此的额头 你可愿与我一同去到我们的草原并坐在高高的山岗上看流星划过、将十指紧紧相扣如同两朵交融的云相伴到白头 你可愿与我一同去到我们的草原用那绿油油的青草喂养成批壮硕的奶牛骑上马匹像风一样自由 你可愿与我一同去到我们的草原在雪山下搭起帐篷等到黄昏时候牵手在澄澈的湖水边行走]]></content>
+    <title><![CDATA[流星]]></title>
+    <url>%2F2014%2F09%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%B5%81%E6%98%9F%2F%E6%B5%81%E6%98%9F%2F</url>
+    <content type="text"><![CDATA[穿越时空不相见，来如光迹终无有。只愿相知与相对，不奢相恋还相守。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[流星]]></title>
-    <url>%2F2014%2F09%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%B5%81%E6%98%9F%2F%E6%B5%81%E6%98%9F%2F</url>
-    <content type="text"><![CDATA[穿越时空不相见，来如光迹终无有。只愿相知与相对，不奢相恋还相守。]]></content>
+    <title><![CDATA[草原]]></title>
+    <url>%2F2014%2F09%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E8%8D%89%E5%8E%9F%2F%E8%8D%89%E5%8E%9F%2F</url>
+    <content type="text"><![CDATA[你可愿与我一同去到我们的草原在那里相守静静地看着时光从指缝间流走你可愿与我一同去到我们的草原依偎在群山的怀抱里像绵羊一般温柔亲亲吻着彼此的额头 你可愿与我一同去到我们的草原并坐在高高的山岗上看流星划过、将十指紧紧相扣如同两朵交融的云相伴到白头 你可愿与我一同去到我们的草原用那绿油油的青草喂养成批壮硕的奶牛骑上马匹像风一样自由 你可愿与我一同去到我们的草原在雪山下搭起帐篷等到黄昏时候牵手在澄澈的湖水边行走]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -1737,17 +1737,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[走道调子]]></title>
-    <url>%2F2012%2F09%2F29%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E8%B5%B0%E9%81%93%E8%B0%83%E5%AD%90%2F%E8%B5%B0%E9%81%93%E8%B0%83%E5%AD%90%2F</url>
-    <content type="text"><![CDATA[喝的是酒，唱的是歌。走的是路，推的是车。前路漫漫，曲曲折折。有时平坦，有时坎坷。]]></content>
+    <title><![CDATA[秋夕]]></title>
+    <url>%2F2012%2F09%2F29%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E7%A7%8B%E5%A4%95%2F%E7%A7%8B%E5%A4%95%2F</url>
+    <content type="text"><![CDATA[农家炊烟起，牧童放牛归。黄狗争相迎，鸡鸭满院飞。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[秋夕]]></title>
-    <url>%2F2012%2F09%2F29%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E7%A7%8B%E5%A4%95%2F%E7%A7%8B%E5%A4%95%2F</url>
-    <content type="text"><![CDATA[农家炊烟起，牧童放牛归。黄狗争相迎，鸡鸭满院飞。]]></content>
+    <title><![CDATA[走道调子]]></title>
+    <url>%2F2012%2F09%2F29%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E8%B5%B0%E9%81%93%E8%B0%83%E5%AD%90%2F%E8%B5%B0%E9%81%93%E8%B0%83%E5%AD%90%2F</url>
+    <content type="text"><![CDATA[喝的是酒，唱的是歌。走的是路，推的是车。前路漫漫，曲曲折折。有时平坦，有时坎坷。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -1777,17 +1777,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[暑日行]]></title>
-    <url>%2F2012%2F08%2F07%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%9A%91%E6%97%A5%E8%A1%8C%2F%E6%9A%91%E6%97%A5%E8%A1%8C%2F</url>
-    <content type="text"><![CDATA[酷日焦我心，尘路无处荫。并步方渐缓，炎风时更侵。滚汗湿短衫，热气烫肤筋。劳骨四肢乏，浓盐沾双睛。忧途多坎坷，上天未必青？苦目不敢望，炽光毒似钉。]]></content>
+    <title><![CDATA[风]]></title>
+    <url>%2F2012%2F08%2F07%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E9%A3%8E%2F%E9%A3%8E%2F</url>
+    <content type="text"><![CDATA[狂野的风从荒荡的原上呼啸而过将高扬的大旗全部扯破连同天上的云也一并刮落]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[风]]></title>
-    <url>%2F2012%2F08%2F07%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E9%A3%8E%2F%E9%A3%8E%2F</url>
-    <content type="text"><![CDATA[狂野的风从荒荡的原上呼啸而过将高扬的大旗全部扯破连同天上的云也一并刮落]]></content>
+    <title><![CDATA[暑日行]]></title>
+    <url>%2F2012%2F08%2F07%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%9A%91%E6%97%A5%E8%A1%8C%2F%E6%9A%91%E6%97%A5%E8%A1%8C%2F</url>
+    <content type="text"><![CDATA[酷日焦我心，尘路无处荫。并步方渐缓，炎风时更侵。滚汗湿短衫，热气烫肤筋。劳骨四肢乏，浓盐沾双睛。忧途多坎坷，上天未必青？苦目不敢望，炽光毒似钉。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -1921,33 +1921,9 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[乡居]]></title>
-    <url>%2F2011%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E4%B9%A1%E5%B1%85%2F%E4%B9%A1%E5%B1%85%2F</url>
-    <content type="text"><![CDATA[听凭夜雨打丛花，远望乡居有几家。倒是秋虫识本趣，枯榕道上滚泥巴。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[面子]]></title>
-    <url>%2F2011%2F10%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E9%9D%A2%E5%AD%90%2F%E9%9D%A2%E5%AD%90%2F</url>
-    <content type="text"><![CDATA[面子，也就一张脸皮被风刮落到尘土里 有人想把它捡起却被别人踩在脚底]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[出塞曲]]></title>
-    <url>%2F2011%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%87%BA%E5%A1%9E%E6%9B%B2%2F%E5%87%BA%E5%A1%9E%E6%9B%B2%2F</url>
-    <content type="text"><![CDATA[塞上关河道，雄师赴远征，黄云八万里，浩荡大风声。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[重逢]]></title>
-    <url>%2F2011%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E9%87%8D%E9%80%A2%2F%E9%87%8D%E9%80%A2%2F</url>
-    <content type="text"><![CDATA[天张云景云张梦，梦绕重山日落空。上塔方临上塔半，环湖又至环湖东。涛回曲水发白气，雾散长堤起晚风。迎面将来相与避，转头待去了无踪。]]></content>
+    <title><![CDATA[书怀]]></title>
+    <url>%2F2011%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E4%B9%A6%E6%80%80%2F%E4%B9%A6%E6%80%80%2F</url>
+    <content type="text"><![CDATA[阔望宏图志，相知世上亲。飞帆东海璧，落日五湖金。浪打天河畔，云归四海心。长怀一片月，以待玉壶宾。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -1969,9 +1945,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[书怀]]></title>
-    <url>%2F2011%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E4%B9%A6%E6%80%80%2F%E4%B9%A6%E6%80%80%2F</url>
-    <content type="text"><![CDATA[阔望宏图志，相知世上亲。飞帆东海璧，落日五湖金。浪打天河畔，云归四海心。长怀一片月，以待玉壶宾。]]></content>
+    <title><![CDATA[小诗]]></title>
+    <url>%2F2011%2F10%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E5%B0%8F%E8%AF%97%2F%E5%B0%8F%E8%AF%97%2F</url>
+    <content type="text"><![CDATA[夜音很轻犹如光之影我正欲睡去仿佛已醒]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[乡居]]></title>
+    <url>%2F2011%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E4%B9%A1%E5%B1%85%2F%E4%B9%A1%E5%B1%85%2F</url>
+    <content type="text"><![CDATA[听凭夜雨打丛花，远望乡居有几家。倒是秋虫识本趣，枯榕道上滚泥巴。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -1985,9 +1969,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[小诗]]></title>
-    <url>%2F2011%2F10%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E5%B0%8F%E8%AF%97%2F%E5%B0%8F%E8%AF%97%2F</url>
-    <content type="text"><![CDATA[夜音很轻犹如光之影我正欲睡去仿佛已醒]]></content>
+    <title><![CDATA[面子]]></title>
+    <url>%2F2011%2F10%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E9%9D%A2%E5%AD%90%2F%E9%9D%A2%E5%AD%90%2F</url>
+    <content type="text"><![CDATA[面子，也就一张脸皮被风刮落到尘土里 有人想把它捡起却被别人踩在脚底]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[出塞曲]]></title>
+    <url>%2F2011%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%87%BA%E5%A1%9E%E6%9B%B2%2F%E5%87%BA%E5%A1%9E%E6%9B%B2%2F</url>
+    <content type="text"><![CDATA[塞上关河道，雄师赴远征，黄云八万里，浩荡大风声。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -2001,25 +1993,9 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[王者之心]]></title>
-    <url>%2F2011%2F09%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E7%8E%8B%E8%80%85%E4%B9%8B%E5%BF%83%C2%B7%E5%86%85%E5%9C%A3%E5%A4%96%E7%8E%8B%2F%E7%8E%8B%E8%80%85%E4%B9%8B%E5%BF%83%C2%B7%E5%86%85%E5%9C%A3%E5%A4%96%E7%8E%8B%2F</url>
-    <content type="text"><![CDATA[（其一）我有帝王心，不与尘花谢。感之而伤神，思之何悲切。吾欲与之绝，化作长灯灭。无奈心不死，日与日愈烈。 （其三）君有帝王心，肯令壮士倾。结义泰山诺，亢言震雷音。嘉期备酒筵，盛邀万寿宾。冠盖飘然至，纷沓集云英。荣华耀高日，交情馈千金。洛拓飙风采，舞辞贺太卿。狂汉相呼喝，豪气盖天京。奔腾九垓外，坦荡激雄膺。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[惜别]]></title>
-    <url>%2F2011%2F09%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%83%9C%E5%88%AB%2F%E6%83%9C%E5%88%AB%2F</url>
-    <content type="text"><![CDATA[倚玉柳，拂碧丝。悲浮生，惜亲知。亲知两分袂，愁云涨秋海。冥思罗青烟，湘梦恐未逮。怀忧伤蓉色，翻覆成暮霭。承杯倾雨露，霞想醉枫林。雄魂干紫电，楚歌惊雷霆。漂浪若蜉蝣，志必借高名？波荡大潮涌，势欲江东行。狂风弄柔条，如何系别情？]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[冷月词]]></title>
-    <url>%2F2011%2F09%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E5%86%B7%E6%9C%88%E8%AF%8D%2F%E5%86%B7%E6%9C%88%E8%AF%8D%2F</url>
-    <content type="text"><![CDATA[天街烟火烜，海市人茫茫，人茫茫，孤灯凝注宿空房。宿空房，绕回廊，百转千折断人肠。断人肠，倚栏杆，望秋月，表素貌堂堂。为问冷月何所似，恰似城南玉面郎。]]></content>
+    <title><![CDATA[重逢]]></title>
+    <url>%2F2011%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E9%87%8D%E9%80%A2%2F%E9%87%8D%E9%80%A2%2F</url>
+    <content type="text"><![CDATA[天张云景云张梦，梦绕重山日落空。上塔方临上塔半，环湖又至环湖东。涛回曲水发白气，雾散长堤起晚风。迎面将来相与避，转头待去了无踪。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -2033,6 +2009,30 @@
       </categories>
   </entry>
   <entry>
+    <title><![CDATA[惜别]]></title>
+    <url>%2F2011%2F09%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%83%9C%E5%88%AB%2F%E6%83%9C%E5%88%AB%2F</url>
+    <content type="text"><![CDATA[倚玉柳，拂碧丝。悲浮生，惜亲知。亲知两分袂，愁云涨秋海。冥思罗青烟，湘梦恐未逮。怀忧伤蓉色，翻覆成暮霭。承杯倾雨露，霞想醉枫林。雄魂干紫电，楚歌惊雷霆。漂浪若蜉蝣，志必借高名？波荡大潮涌，势欲江东行。狂风弄柔条，如何系别情？]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[王者之心]]></title>
+    <url>%2F2011%2F09%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E7%8E%8B%E8%80%85%E4%B9%8B%E5%BF%83%C2%B7%E5%86%85%E5%9C%A3%E5%A4%96%E7%8E%8B%2F%E7%8E%8B%E8%80%85%E4%B9%8B%E5%BF%83%C2%B7%E5%86%85%E5%9C%A3%E5%A4%96%E7%8E%8B%2F</url>
+    <content type="text"><![CDATA[（其一）我有帝王心，不与尘花谢。感之而伤神，思之何悲切。吾欲与之绝，化作长灯灭。无奈心不死，日与日愈烈。 （其三）君有帝王心，肯令壮士倾。结义泰山诺，亢言震雷音。嘉期备酒筵，盛邀万寿宾。冠盖飘然至，纷沓集云英。荣华耀高日，交情馈千金。洛拓飙风采，舞辞贺太卿。狂汉相呼喝，豪气盖天京。奔腾九垓外，坦荡激雄膺。]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[冷月词]]></title>
+    <url>%2F2011%2F09%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E5%86%B7%E6%9C%88%E8%AF%8D%2F%E5%86%B7%E6%9C%88%E8%AF%8D%2F</url>
+    <content type="text"><![CDATA[天街烟火烜，海市人茫茫，人茫茫，孤灯凝注宿空房。宿空房，绕回廊，百转千折断人肠。断人肠，倚栏杆，望秋月，表素貌堂堂。为问冷月何所似，恰似城南玉面郎。]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[劝酒词]]></title>
     <url>%2F2011%2F09%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E5%8A%9D%E9%85%92%E8%AF%8D%2F%E5%8A%9D%E9%85%92%E8%AF%8D%2F</url>
     <content type="text"><![CDATA[君程若朝景，鸿图耀金辉。圣壅宗大雅，凤阙集英隹。雄心归四海，亢声天外飞。壮志当秋酬，铭鎏万古碑。江风吹，江风吹，愁思共撩挥。倾情何须复言，劝君惜取行杯。]]></content>
@@ -2041,17 +2041,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[长歌行]]></title>
-    <url>%2F2011%2F08%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E9%95%BF%E6%AD%8C%E8%A1%8C%2F%E9%95%BF%E6%AD%8C%E8%A1%8C%2F</url>
-    <content type="text"><![CDATA[行车无定址，长歌未休歇。欢情达明曙，晓日攀峰巅。平远见群鸟，乌鸣连辽边。喧声动草野，隆隆声震天。浩浩彪风起，滚滚生尘烟。旷漠骤然没，奔莽讵成间。腾搏展金雕，抟地若周旋。盘舞争纷飞，壮观云海翻。心塞俱崩荡，聚魂散星湾。]]></content>
+    <title><![CDATA[创世篇]]></title>
+    <url>%2F2011%2F08%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E5%88%9B%E4%B8%96%E7%AF%87%2F%E5%88%9B%E4%B8%96%E7%AF%87%2F</url>
+    <content type="text"><![CDATA[壮士雄据穆昂昂，圣皇泰坐圣皇堂。登坛造鼎誓磊诺，虎将鳞沓涌炎廊。霍望俨踞刚劲骨，霸气磅礴势岇藏。帝君创世驱酣战，麾师百万扫鸿茫。威慑沧涯彰宏志，魄镇海内筑庄庞。遥望紫极矗杳冥，环顾洪域何仿佯。眦眺泓溕增悲慨，钢戟争锋岂曾睹。夕阳残殇事国葬，暮悼祭血悬亘古。霾霭郁积堆层霄，穹窿鏖抗焉能补。擂皷訇霆震苍旻，霹雳摧胆坼厚土。征疆凯荡旋星阵，云旗飙飒兴雷鼓。盛邀世杰琥珀宴，俊逸乑聚麒麟府。胸潮澎湃吞大块，壮哉楚雄当巍武。为君扫洒河东赋，士保匠才恐不举。心若狂潮吞江汉，不测广杭飞瑶曲。剖怀畅饮倾至尊，夸口激辩惊神女。楼船顿从天汉堕，长河逶迤零星雨。星雨绵绵垂金丝，北挂琉檐萦几许？宛似白驹遗光迹，飘忽不待更何予。非是洪福不临门，流精还望君自取。男儿自当创功业，心怀亢志曾不语。俯瞰浤荒尽归属，试问江山孰可主。侠屯华庭罗公候，敕赐王臣定少储。御驾岌岌馺缨标，昻陟骁骁腾乘黄。白浪喷薄澔汤汤，鎏銮摇亢鸣鑶鑶。纵歌扬鞭骋骄骓，群鹰寥廓竞翱翔。魂倚浮云漫卷舒，狂风恣舞肆飚飏。冀翼捭阖排秘雾，乾坤玄急纵横至。经纬缦络转涡轮，翯翯疾矢射落日。猛狮虓奡烽光燀，烈火张空云海炽。大道豪迈不肯屈，秉性兀奡涨峨势。霸望江东犹啸傲，奔腾万里且骄嚣。劭年意气称豪杰，巾帼熊胆敢横刀。慷慨憾歌生悲壮，排作狂风卷怒涛。叱咤崩蹬愤然起，滚滚洪波喷重瞳。拔山气力焉能穷，猛士还当百夫雄。难堪时局终为败，无尽寒渊腾神龙。嘉期隆庆声喧动，旲昊辇毂奋雷轰。千军派踏入重城，从伍屹立拔炙嵩。英姿披靡犀铠锐，曳电辉射斩枭骢。官宦跋扈势汹汹，变衡权运相沸冲。暄曜临照统亿象，洞瀜太始归一宗。锦饰银镶焕奇彩，艳色璀璨耀蝃蝀。九龙升登华莲座，王道豁落仙阊通。宸翰拓宕展巨制，摩厦赫赫耸天宫。煌煌法章炳综纪，雍仪大德居正中。戎帅上拜金铭殿，壯士恺歌造化功。云河浩荡奔大东，龙马仰啸万古空。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[创世篇]]></title>
-    <url>%2F2011%2F08%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E5%88%9B%E4%B8%96%E7%AF%87%2F%E5%88%9B%E4%B8%96%E7%AF%87%2F</url>
-    <content type="text"><![CDATA[壮士雄据穆昂昂，圣皇泰坐圣皇堂。登坛造鼎誓磊诺，虎将鳞沓涌炎廊。霍望俨踞刚劲骨，霸气磅礴势岇藏。帝君创世驱酣战，麾师百万扫鸿茫。威慑沧涯彰宏志，魄镇海内筑庄庞。遥望紫极矗杳冥，环顾洪域何仿佯。眦眺泓溕增悲慨，钢戟争锋岂曾睹。夕阳残殇事国葬，暮悼祭血悬亘古。霾霭郁积堆层霄，穹窿鏖抗焉能补。擂皷訇霆震苍旻，霹雳摧胆坼厚土。征疆凯荡旋星阵，云旗飙飒兴雷鼓。盛邀世杰琥珀宴，俊逸乑聚麒麟府。胸潮澎湃吞大块，壮哉楚雄当巍武。为君扫洒河东赋，士保匠才恐不举。心若狂潮吞江汉，不测广杭飞瑶曲。剖怀畅饮倾至尊，夸口激辩惊神女。楼船顿从天汉堕，长河逶迤零星雨。星雨绵绵垂金丝，北挂琉檐萦几许？宛似白驹遗光迹，飘忽不待更何予。非是洪福不临门，流精还望君自取。男儿自当创功业，心怀亢志曾不语。俯瞰浤荒尽归属，试问江山孰可主。侠屯华庭罗公候，敕赐王臣定少储。御驾岌岌馺缨标，昻陟骁骁腾乘黄。白浪喷薄澔汤汤，鎏銮摇亢鸣鑶鑶。纵歌扬鞭骋骄骓，群鹰寥廓竞翱翔。魂倚浮云漫卷舒，狂风恣舞肆飚飏。冀翼捭阖排秘雾，乾坤玄急纵横至。经纬缦络转涡轮，翯翯疾矢射落日。猛狮虓奡烽光燀，烈火张空云海炽。大道豪迈不肯屈，秉性兀奡涨峨势。霸望江东犹啸傲，奔腾万里且骄嚣。劭年意气称豪杰，巾帼熊胆敢横刀。慷慨憾歌生悲壮，排作狂风卷怒涛。叱咤崩蹬愤然起，滚滚洪波喷重瞳。拔山气力焉能穷，猛士还当百夫雄。难堪时局终为败，无尽寒渊腾神龙。嘉期隆庆声喧动，旲昊辇毂奋雷轰。千军派踏入重城，从伍屹立拔炙嵩。英姿披靡犀铠锐，曳电辉射斩枭骢。官宦跋扈势汹汹，变衡权运相沸冲。暄曜临照统亿象，洞瀜太始归一宗。锦饰银镶焕奇彩，艳色璀璨耀蝃蝀。九龙升登华莲座，王道豁落仙阊通。宸翰拓宕展巨制，摩厦赫赫耸天宫。煌煌法章炳综纪，雍仪大德居正中。戎帅上拜金铭殿，壯士恺歌造化功。云河浩荡奔大东，龙马仰啸万古空。]]></content>
+    <title><![CDATA[长歌行]]></title>
+    <url>%2F2011%2F08%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E9%95%BF%E6%AD%8C%E8%A1%8C%2F%E9%95%BF%E6%AD%8C%E8%A1%8C%2F</url>
+    <content type="text"><![CDATA[行车无定址，长歌未休歇。欢情达明曙，晓日攀峰巅。平远见群鸟，乌鸣连辽边。喧声动草野，隆隆声震天。浩浩彪风起，滚滚生尘烟。旷漠骤然没，奔莽讵成间。腾搏展金雕，抟地若周旋。盘舞争纷飞，壮观云海翻。心塞俱崩荡，聚魂散星湾。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -2073,12 +2073,19 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[临江仙·醉问仙来仙问醉]]></title>
-    <url>%2F2011%2F05%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E4%B8%B4%E6%B1%9F%E4%BB%99%C2%B7%E9%86%89%E9%97%AE%E4%BB%99%E6%9D%A5%E4%BB%99%E9%97%AE%E9%86%89%2F%E4%B8%B4%E6%B1%9F%E4%BB%99%C2%B7%E9%86%89%E9%97%AE%E4%BB%99%E6%9D%A5%E4%BB%99%E9%97%AE%E9%86%89%2F</url>
-    <content type="text"><![CDATA[醉问仙来仙问醉，长河沓鼓歌行。乘风洒酒浪盈盈。当年雄阔照，空付满腔晴。 夜宿兰庭酬上客，更添一碗销魂。为君垂袖扫红尘。花中人笑我，我笑花中人。]]></content>
+    <title><![CDATA[游歌行]]></title>
+    <url>%2F2011%2F05%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%B8%B8%E6%AD%8C%E8%A1%8C%2F%E6%B8%B8%E6%AD%8C%E8%A1%8C%2F</url>
+    <content type="text"><![CDATA[繁花世外有人烟，映水楼台四五千。船入桃源浦，一夜春风间。明星灿无数，大道逢酒仙。相邀龙驾上，买醉洞庭边。]]></content>
       <categories>
         <category>《情书和海》</category>
-        <category>词</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[赠荆友]]></title>
+    <url>%2F2011%2F05%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E8%B5%A0%E8%8D%86%E5%8F%8B%2F%E8%B5%A0%E8%8D%86%E5%8F%8B%2F</url>
+    <content type="text"><![CDATA[纵舞紫霞间，相邀鹤上仙。衔杯云梦外，笑荡汉江边。]]></content>
+      <categories>
+        <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
@@ -2098,19 +2105,12 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[游歌行]]></title>
-    <url>%2F2011%2F05%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%B8%B8%E6%AD%8C%E8%A1%8C%2F%E6%B8%B8%E6%AD%8C%E8%A1%8C%2F</url>
-    <content type="text"><![CDATA[繁花世外有人烟，映水楼台四五千。船入桃源浦，一夜春风间。明星灿无数，大道逢酒仙。相邀龙驾上，买醉洞庭边。]]></content>
+    <title><![CDATA[临江仙·醉问仙来仙问醉]]></title>
+    <url>%2F2011%2F05%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E4%B8%B4%E6%B1%9F%E4%BB%99%C2%B7%E9%86%89%E9%97%AE%E4%BB%99%E6%9D%A5%E4%BB%99%E9%97%AE%E9%86%89%2F%E4%B8%B4%E6%B1%9F%E4%BB%99%C2%B7%E9%86%89%E9%97%AE%E4%BB%99%E6%9D%A5%E4%BB%99%E9%97%AE%E9%86%89%2F</url>
+    <content type="text"><![CDATA[醉问仙来仙问醉，长河沓鼓歌行。乘风洒酒浪盈盈。当年雄阔照，空付满腔晴。 夜宿兰庭酬上客，更添一碗销魂。为君垂袖扫红尘。花中人笑我，我笑花中人。]]></content>
       <categories>
         <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[赠荆友]]></title>
-    <url>%2F2011%2F05%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E8%B5%A0%E8%8D%86%E5%8F%8B%2F%E8%B5%A0%E8%8D%86%E5%8F%8B%2F</url>
-    <content type="text"><![CDATA[纵舞紫霞间，相邀鹤上仙。衔杯云梦外，笑荡汉江边。]]></content>
-      <categories>
-        <category>《情书和海》</category>
+        <category>词</category>
       </categories>
   </entry>
   <entry>
@@ -2122,41 +2122,9 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[持节操]]></title>
-    <url>%2F2011%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%8C%81%E8%8A%82%E6%93%8D%2F%E6%8C%81%E8%8A%82%E6%93%8D%2F</url>
-    <content type="text"><![CDATA[苍苔覆赤壁，空待长相忆。孤眺旭日升，衍望流波细。江南愁思笼，塞北暮光逡。三月竟无寐，五年得见君。君见妾不念，妾念君不见。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[春饮]]></title>
-    <url>%2F2011%2F04%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E6%98%A5%E9%A5%AE%2F%E6%98%A5%E9%A5%AE%2F</url>
-    <content type="text"><![CDATA[春朝对饮泛红颜，笑倚花台醉欲眠。一夜狂风吹酒醒，不知人世已千年。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[江汉篇]]></title>
-    <url>%2F2011%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%B1%9F%E6%B1%89%E7%AF%87%2F%E6%B1%9F%E6%B1%89%E7%AF%87%2F</url>
-    <content type="text"><![CDATA[江汉汉江上，行舟行欲唱。高歌初经天，惊仙隔江望。江上双帆似仙羽，仙人视我如仙侣。遂择华亭居，满闻紫姻曲。翩翩姮媛舞，时时起金鼓。大呼即兴风，遍将春庭抚。春庭锦帐暖，处子临款款。绰绰萦粉带，袅袅轻烟外。素女奉碧桃，美酒罗佳肴。洛洛晴怀开，磊磊金樽举。莫道窖藏尽，径向玉湖取。冥冥花间醉，荧荧繁星许。庆烛飞燎光，零落若星雨。星雨洒江汉，长流何灿灿，旷哉飏浩叹，盈盈波滥漫。白波兮潆洄，欲归不归人胡为？巡遊所向志，梦里身外世。复见江汉奇，方生由来疑。旅夜重霜结，栖树孤鹃啼。凛凛天河阔，冰鳞含琥魄。江上燃星火，冉冉皆似我。恍恍而顿失，离魂犹未裹。暂伴沧溟住，游魂知何处。窅窅空际晓，隐隐不知数。遍踏诸天寻，天神感我云：江汉有源，其涌如泉，齐涌如泉，其下也悬；江汉有尾，其摆如虺，齐摆如虺，其上也陒。苦念夜遗恨，朝辞欲复问。遥指阊阖开，勿与天机乖。皇门握虎将，雄威势吞象。乏我凤毛信，谓返未得进。行吟江汉滨，始露红莲心。初恋泛江汉，龙船过天津。上皇见我亲，邀我于上宾，上宾登上座，一醉同归卧。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[游侠儿]]></title>
-    <url>%2F2011%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%B8%B8%E4%BE%A0%E5%84%BF%2F%E6%B8%B8%E4%BE%A0%E5%84%BF%2F</url>
-    <content type="text"><![CDATA[春朝明朝有，今朝饮君酒。壮怀载海量，日尽三千斗。雄偲瀑天河，惊煞世间口。金陵浪荡子，翩翩恥成学。堪醉径当醉，醉后永为绝。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[杜鹃曲]]></title>
-    <url>%2F2011%2F04%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E6%9D%9C%E9%B9%83%E6%9B%B2%2F%E6%9D%9C%E9%B9%83%E6%9B%B2%2F</url>
-    <content type="text"><![CDATA[云上杜鹃仙，采霞山海间。邀来一日醉，烧透半边天。]]></content>
+    <title><![CDATA[桃花歌]]></title>
+    <url>%2F2011%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%A1%83%E8%8A%B1%E6%AD%8C%2F%E6%A1%83%E8%8A%B1%E6%AD%8C%2F</url>
+    <content type="text"><![CDATA[（其二）桃花岛上桃花山，桃花山中桃花庵，桃花庵里桃花满。桃花庵外桃花道，桃花道上桃花俏，桃花俏惹桃花笑。桃花庵前桃开早，桃花庵后桃开好，桃花庵中桃花歌，桃花庵外桃花恼。桃花恼叹春光老，红颜衰落覆瑶草，扶风欲把桃花扫，桃花更满桃花岛。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -2170,9 +2138,49 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[桃花歌]]></title>
-    <url>%2F2011%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%A1%83%E8%8A%B1%E6%AD%8C%2F%E6%A1%83%E8%8A%B1%E6%AD%8C%2F</url>
-    <content type="text"><![CDATA[（其二）桃花岛上桃花山，桃花山中桃花庵，桃花庵里桃花满。桃花庵外桃花道，桃花道上桃花俏，桃花俏惹桃花笑。桃花庵前桃开早，桃花庵后桃开好，桃花庵中桃花歌，桃花庵外桃花恼。桃花恼叹春光老，红颜衰落覆瑶草，扶风欲把桃花扫，桃花更满桃花岛。]]></content>
+    <title><![CDATA[杜鹃曲]]></title>
+    <url>%2F2011%2F04%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E6%9D%9C%E9%B9%83%E6%9B%B2%2F%E6%9D%9C%E9%B9%83%E6%9B%B2%2F</url>
+    <content type="text"><![CDATA[云上杜鹃仙，采霞山海间。邀来一日醉，烧透半边天。]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[游侠儿]]></title>
+    <url>%2F2011%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%B8%B8%E4%BE%A0%E5%84%BF%2F%E6%B8%B8%E4%BE%A0%E5%84%BF%2F</url>
+    <content type="text"><![CDATA[春朝明朝有，今朝饮君酒。壮怀载海量，日尽三千斗。雄偲瀑天河，惊煞世间口。金陵浪荡子，翩翩恥成学。堪醉径当醉，醉后永为绝。]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[持节操]]></title>
+    <url>%2F2011%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%8C%81%E8%8A%82%E6%93%8D%2F%E6%8C%81%E8%8A%82%E6%93%8D%2F</url>
+    <content type="text"><![CDATA[苍苔覆赤壁，空待长相忆。孤眺旭日升，衍望流波细。江南愁思笼，塞北暮光逡。三月竟无寐，五年得见君。君见妾不念，妾念君不见。]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[江汉篇]]></title>
+    <url>%2F2011%2F04%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%B1%9F%E6%B1%89%E7%AF%87%2F%E6%B1%9F%E6%B1%89%E7%AF%87%2F</url>
+    <content type="text"><![CDATA[江汉汉江上，行舟行欲唱。高歌初经天，惊仙隔江望。江上双帆似仙羽，仙人视我如仙侣。遂择华亭居，满闻紫姻曲。翩翩姮媛舞，时时起金鼓。大呼即兴风，遍将春庭抚。春庭锦帐暖，处子临款款。绰绰萦粉带，袅袅轻烟外。素女奉碧桃，美酒罗佳肴。洛洛晴怀开，磊磊金樽举。莫道窖藏尽，径向玉湖取。冥冥花间醉，荧荧繁星许。庆烛飞燎光，零落若星雨。星雨洒江汉，长流何灿灿，旷哉飏浩叹，盈盈波滥漫。白波兮潆洄，欲归不归人胡为？巡遊所向志，梦里身外世。复见江汉奇，方生由来疑。旅夜重霜结，栖树孤鹃啼。凛凛天河阔，冰鳞含琥魄。江上燃星火，冉冉皆似我。恍恍而顿失，离魂犹未裹。暂伴沧溟住，游魂知何处。窅窅空际晓，隐隐不知数。遍踏诸天寻，天神感我云：江汉有源，其涌如泉，齐涌如泉，其下也悬；江汉有尾，其摆如虺，齐摆如虺，其上也陒。苦念夜遗恨，朝辞欲复问。遥指阊阖开，勿与天机乖。皇门握虎将，雄威势吞象。乏我凤毛信，谓返未得进。行吟江汉滨，始露红莲心。初恋泛江汉，龙船过天津。上皇见我亲，邀我于上宾，上宾登上座，一醉同归卧。]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[春饮]]></title>
+    <url>%2F2011%2F04%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E6%98%A5%E9%A5%AE%2F%E6%98%A5%E9%A5%AE%2F</url>
+    <content type="text"><![CDATA[春朝对饮泛红颜，笑倚花台醉欲眠。一夜狂风吹酒醒，不知人世已千年。]]></content>
+      <categories>
+        <category>《情书和海》</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[造化篇]]></title>
+    <url>%2F2011%2F03%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E9%80%A0%E5%8C%96%E7%AF%87%2F%E9%80%A0%E5%8C%96%E7%AF%87%2F</url>
+    <content type="text"><![CDATA[观乎，何其渺哉！浩浩之濛泓，悠若遊龙。霄隐而不可探，窅兮以玄秘而生发。神驰也，适运经维以颵颻，脱兮汉沚以奔越，超兮邈极以升腾。飃颲之飒荡，闻洪声之雄旷，达兮宙由而俱忘，畅兮豁荦之所向。究穷也，遂道其有终，微冥冥于释空，逝式兮灵通。环而环太，旋而旋外，黯黯黖黖，眇眇旲易。寥察际隙，窈默兮奥谧。弥尔漫濭，郁囿禁祭，尘飚竞兮駓騃，暧暧兮难为视，眸瞻鼐鼏，若帝冠之见弃。冀翼以翱翔，韽韽兮不可远飏。皇处也，斡旋之央曜，颴离兮缭绕。居寰宇兮惟中，及紫坛而丨之，矗鼎尊乃九五，金鳞布列、丹凤独舞，黺黼斌斒，鼟鼞敱鼔。登奡峰兮临乔遥，昂然以卓洛之姿，泰然以威武之势，明眸以集琛之星，皓须以落天之瀑，曜兮以煌煌而昇华。炫灿灿之穆慕兮，乑敖敖兮辰群。鎏璗为卧，龡龣为作，阅旌劲而心热，闻谐乐兮怡悦。乘扶摇兮拂清洌，振大雅而扬圣雍。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -2194,9 +2202,9 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[造化篇]]></title>
-    <url>%2F2011%2F03%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E9%80%A0%E5%8C%96%E7%AF%87%2F%E9%80%A0%E5%8C%96%E7%AF%87%2F</url>
-    <content type="text"><![CDATA[观乎，何其渺哉！浩浩之濛泓，悠若遊龙。霄隐而不可探，窅兮以玄秘而生发。神驰也，适运经维以颵颻，脱兮汉沚以奔越，超兮邈极以升腾。飃颲之飒荡，闻洪声之雄旷，达兮宙由而俱忘，畅兮豁荦之所向。究穷也，遂道其有终，微冥冥于释空，逝式兮灵通。环而环太，旋而旋外，黯黯黖黖，眇眇旲易。寥察际隙，窈默兮奥谧。弥尔漫濭，郁囿禁祭，尘飚竞兮駓騃，暧暧兮难为视，眸瞻鼐鼏，若帝冠之见弃。冀翼以翱翔，韽韽兮不可远飏。皇处也，斡旋之央曜，颴离兮缭绕。居寰宇兮惟中，及紫坛而丨之，矗鼎尊乃九五，金鳞布列、丹凤独舞，黺黼斌斒，鼟鼞敱鼔。登奡峰兮临乔遥，昂然以卓洛之姿，泰然以威武之势，明眸以集琛之星，皓须以落天之瀑，曜兮以煌煌而昇华。炫灿灿之穆慕兮，乑敖敖兮辰群。鎏璗为卧，龡龣为作，阅旌劲而心热，闻谐乐兮怡悦。乘扶摇兮拂清洌，振大雅而扬圣雍。]]></content>
+    <title><![CDATA[饮酒]]></title>
+    <url>%2F2011%2F02%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E9%A5%AE%E9%85%92%2F%E9%A5%AE%E9%85%92%2F</url>
+    <content type="text"><![CDATA[烂漫花枝下，高谈把酒欢。壶倾人欲去，醉卧彩云端。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -2210,14 +2218,6 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[饮酒]]></title>
-    <url>%2F2011%2F02%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E9%A5%AE%E9%85%92%2F%E9%A5%AE%E9%85%92%2F</url>
-    <content type="text"><![CDATA[烂漫花枝下，高谈把酒欢。壶倾人欲去，醉卧彩云端。]]></content>
-      <categories>
-        <category>《情书和海》</category>
-      </categories>
-  </entry>
-  <entry>
     <title><![CDATA[菩萨蛮·致晚霞]]></title>
     <url>%2F2010%2F11%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E8%8F%A9%E8%90%A8%E8%9B%AE%C2%B7%E8%87%B4%E6%99%9A%E9%9C%9E%2F%E8%8F%A9%E8%90%A8%E8%9B%AE%C2%B7%E8%87%B4%E6%99%9A%E9%9C%9E%2F</url>
     <content type="text"><![CDATA[朱光借作华宫热，彤颜拟似天边色。但见江山颓，临风舞欲回。 人间多不采，相望隔苍海。落照若无期，夕行西复西。]]></content>
@@ -2226,9 +2226,9 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[巫山一段云·宴饮]]></title>
-    <url>%2F2010%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%B7%AB%E5%B1%B1%E4%B8%80%E6%AE%B5%E4%BA%91%C2%B7%E5%AE%B4%E9%A5%AE%2F%E5%B7%AB%E5%B1%B1%E4%B8%80%E6%AE%B5%E4%BA%91%C2%B7%E5%AE%B4%E9%A5%AE%2F</url>
-    <content type="text"><![CDATA[酒气庭中凑，峰光殿外流。高谈小倚桂华楼，海月自来求。独舞多不乐，沓歌鲜有愁。深红浅绿欲行游，去去莫停留。]]></content>
+    <title><![CDATA[星辰]]></title>
+    <url>%2F2010%2F10%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E6%98%9F%E8%BE%B0%2F%E6%98%9F%E8%BE%B0%2F</url>
+    <content type="text"><![CDATA[天上的星辰像一群飞鸟请来我的怀抱感受宇宙的渺小]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -2242,9 +2242,9 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[星辰]]></title>
-    <url>%2F2010%2F10%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E6%98%9F%E8%BE%B0%2F%E6%98%9F%E8%BE%B0%2F</url>
-    <content type="text"><![CDATA[天上的星辰像一群飞鸟请来我的怀抱感受宇宙的渺小]]></content>
+    <title><![CDATA[巫山一段云·宴饮]]></title>
+    <url>%2F2010%2F10%2F01%2F%E3%80%90%E6%A0%BC%E5%BE%8B%E3%80%91%2F%E5%B7%AB%E5%B1%B1%E4%B8%80%E6%AE%B5%E4%BA%91%C2%B7%E5%AE%B4%E9%A5%AE%2F%E5%B7%AB%E5%B1%B1%E4%B8%80%E6%AE%B5%E4%BA%91%C2%B7%E5%AE%B4%E9%A5%AE%2F</url>
+    <content type="text"><![CDATA[酒气庭中凑，峰光殿外流。高谈小倚桂华楼，海月自来求。独舞多不乐，沓歌鲜有愁。深红浅绿欲行游，去去莫停留。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -2266,17 +2266,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[暮歌]]></title>
-    <url>%2F2010%2F09%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E6%9A%AE%E6%AD%8C%2F%E6%9A%AE%E6%AD%8C%2F</url>
-    <content type="text"><![CDATA[我经过黄昏的院落有人为我献上颂歌歌者温情而不做作就像黄昏的院落 坛中盘坐的梧桐掩映着花丛斜照的晚霞似露在天边的粉颊 我洒下光彩赠与丛花它们也毫不虚夸柔枝持着含羞的朵燃作真爱的火 我拂过桌上的贡品将美酒一饮再饮微风吹散了黄昏院落虔默般幽深 我自黄昏经过暮色笼罩着院落仿佛灵与物的相隔都在暮光中融和]]></content>
+    <title><![CDATA[十四行：寄言]]></title>
+    <url>%2F2010%2F09%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E5%8D%81%E5%9B%9B%E8%A1%8C%EF%BC%9A%E5%AF%84%E8%A8%80%2F%E5%8D%81%E5%9B%9B%E8%A1%8C%EF%BC%9A%E5%AF%84%E8%A8%80%2F</url>
+    <content type="text"><![CDATA[孩子，我未来的王你要将我的话语谨记众生之灯自有其明熄切不可过分义重情长而这座金色的殿堂是诸天之神朝拜的圣地万不可在此舞戏唯有恭敬之心能令你声扬记住你的职责与天意莫要对公卿过于依仗纵然他们功绩卓异不许授予任何勋章你自有你的浩然正气你的爱也会为你播芳]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[十四行：寄言]]></title>
-    <url>%2F2010%2F09%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E5%8D%81%E5%9B%9B%E8%A1%8C%EF%BC%9A%E5%AF%84%E8%A8%80%2F%E5%8D%81%E5%9B%9B%E8%A1%8C%EF%BC%9A%E5%AF%84%E8%A8%80%2F</url>
-    <content type="text"><![CDATA[孩子，我未来的王你要将我的话语谨记众生之灯自有其明熄切不可过分义重情长而这座金色的殿堂是诸天之神朝拜的圣地万不可在此舞戏唯有恭敬之心能令你声扬记住你的职责与天意莫要对公卿过于依仗纵然他们功绩卓异不许授予任何勋章你自有你的浩然正气你的爱也会为你播芳]]></content>
+    <title><![CDATA[暮歌]]></title>
+    <url>%2F2010%2F09%2F01%2F%E3%80%90%E7%8E%B0%E4%BB%A3%E3%80%91%2F%E6%9A%AE%E6%AD%8C%2F%E6%9A%AE%E6%AD%8C%2F</url>
+    <content type="text"><![CDATA[我经过黄昏的院落有人为我献上颂歌歌者温情而不做作就像黄昏的院落 坛中盘坐的梧桐掩映着花丛斜照的晚霞似露在天边的粉颊 我洒下光彩赠与丛花它们也毫不虚夸柔枝持着含羞的朵燃作真爱的火 我拂过桌上的贡品将美酒一饮再饮微风吹散了黄昏院落虔默般幽深 我自黄昏经过暮色笼罩着院落仿佛灵与物的相隔都在暮光中融和]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
@@ -2330,17 +2330,17 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[杭州春日宏图志]]></title>
-    <url>%2F2010%2F03%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%9D%AD%E5%B7%9E%E6%98%A5%E6%97%A5%E5%AE%8F%E5%9B%BE%E5%BF%97%2F%E6%9D%AD%E5%B7%9E%E6%98%A5%E6%97%A5%E5%AE%8F%E5%9B%BE%E5%BF%97%2F</url>
-    <content type="text"><![CDATA[潇潇逢大令，餐露同山翁。韩王觅芝参，声声鸣仓庚。仓庚栖为鸟，翛然化作鹏。飒鹏逝无迹，嚣嚣横飙风。风飙傲啸啸，超然绝昆仑。昆仑元初定，澹澹未及论。湛湛适欲谧，天地忽已沦。修身赋灵体，凝魄舞精魂。魂飞宜春，玄冥孕乾坤。炎黄得兆子，众妙归吾门。旷世布浩辰，皓皓耀雄群。凤启五色灭，威虎震英伦。宗岳一为登，霸气势何盛。慑胆可夺人，摧心即拔城。奕奕朝上主，浩浩罗三军。敬仁感先恩，丕业授公勋。昔祖怀荆楚，漓漓遗骚文。谪仙或为酒，海量惊龙君。扪汉问承川，尔代卓圣神。蜂彦集诜诜，王朝豪杰屯。行道意孜孜，索真志谆谆。功成冠今古，行章绝经纶。垂华播清芬，赐霖润苍生。坛祭封始皇，帝国孰至尊。燀赫介嗣福，盛价懿德君。]]></content>
+    <title><![CDATA[偶遇]]></title>
+    <url>%2F2010%2F03%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E5%81%B6%E9%81%87%2F%E5%81%B6%E9%81%87%2F</url>
+    <content type="text"><![CDATA[去年访君君不在，今次访君君亦来。且就桃色山前坐，风剪飞花水云台。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[偶遇]]></title>
-    <url>%2F2010%2F03%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E5%81%B6%E9%81%87%2F%E5%81%B6%E9%81%87%2F</url>
-    <content type="text"><![CDATA[去年访君君不在，今次访君君亦来。且就桃色山前坐，风剪飞花水云台。]]></content>
+    <title><![CDATA[杭州春日宏图志]]></title>
+    <url>%2F2010%2F03%2F01%2F%E3%80%90%E5%8F%A4%E9%A3%8E%E3%80%91%2F%E6%9D%AD%E5%B7%9E%E6%98%A5%E6%97%A5%E5%AE%8F%E5%9B%BE%E5%BF%97%2F%E6%9D%AD%E5%B7%9E%E6%98%A5%E6%97%A5%E5%AE%8F%E5%9B%BE%E5%BF%97%2F</url>
+    <content type="text"><![CDATA[潇潇逢大令，餐露同山翁。韩王觅芝参，声声鸣仓庚。仓庚栖为鸟，翛然化作鹏。飒鹏逝无迹，嚣嚣横飙风。风飙傲啸啸，超然绝昆仑。昆仑元初定，澹澹未及论。湛湛适欲谧，天地忽已沦。修身赋灵体，凝魄舞精魂。魂飞宜春，玄冥孕乾坤。炎黄得兆子，众妙归吾门。旷世布浩辰，皓皓耀雄群。凤启五色灭，威虎震英伦。宗岳一为登，霸气势何盛。慑胆可夺人，摧心即拔城。奕奕朝上主，浩浩罗三军。敬仁感先恩，丕业授公勋。昔祖怀荆楚，漓漓遗骚文。谪仙或为酒，海量惊龙君。扪汉问承川，尔代卓圣神。蜂彦集诜诜，王朝豪杰屯。行道意孜孜，索真志谆谆。功成冠今古，行章绝经纶。垂华播清芬，赐霖润苍生。坛祭封始皇，帝国孰至尊。燀赫介嗣福，盛价懿德君。]]></content>
       <categories>
         <category>《情书和海》</category>
       </categories>
