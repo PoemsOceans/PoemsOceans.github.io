@@ -487,12 +487,3 @@ body {
   color: #404040;
   text-align: center;
 }
-.foot > a {
-  width: 100%;
-  height: 100%;
-  color: #404040;
-}
-.foot > a:hover,
-.foot > a:focus {
-  text-decoration: none;
-}
