@@ -25,8 +25,7 @@ nav,
 .intro-header .post-heading .subheading,
 .btn,
 .pagiantion li > a,
-.pagiantion li > span,
-.foot {
+.pagiantion li > span {
   font-family: 'Noto Serif', 'Times New Roman', serif;
 }
 .sans-serif {
@@ -419,7 +418,7 @@ form .row:first-child .floating-label-form-group {
 }
 .pagiantion {
   display: block;
-  padding: 55px 0;
+  padding: 10px 0;
   margin: 0;
   text-align: center;
   list-style: none;
@@ -474,16 +473,18 @@ body {
 }
 .pagination {
   margin: 0px;
+  margin-top: 0px;
   width: 100%;
   height: 5px;
   color: rgba(0,0,0,0.5);
   text-align: center;
 }
 .foot {
-  margin: 0px;
   width: 100%;
-  height: 5px;
-  font-size: 18px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  font-size: 13px;
   color: #404040;
   text-align: center;
+  display: inline-block;
 }
