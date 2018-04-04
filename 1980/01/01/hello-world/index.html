@@ -89,6 +89,7 @@
 <h4 style="display:inline-block">无论是世事如何变迁，你知道我永远都在这里，守护着一片森林。</h4>&nbsp;&nbsp;&nbsp;<h5 style="display:inline-block">—-《萤》</h5><br><br><h4>无论是世事如何变迁，你知道我永远都在这里，守护着一片森林。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; —-《萤》</h4>
 
 <h3 id="文字居中显示"><a href="#文字居中显示" class="headerlink" title="文字居中显示"></a>文字居中显示</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;div style=&quot;text-align:center&quot;&gt;</span><br><span class="line"></span><br><span class="line">&lt;br&gt;&lt;br&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure>
+<p>HTML方式: 直接在 Markdown 文件中编写 HTML 来调用<br><!-- 其中 class="blockquote-center" 是必须的 --><br><!-- <blockquote class="blockquote-center"> --><br><!-- <img src="../../../../_posts/致/致.png" class="full-image" /> --><br><!-- </blockquote> --><br><blockquote></blockquote></p>
 <h3 id="控制图片大小和居中显示"><a href="#控制图片大小和居中显示" class="headerlink" title="控制图片大小和居中显示"></a>控制图片大小和居中显示</h3><p><img src="http://p5ooqzjfi.bkt.clouddn.com/wechatpay.jpg" alt="打赏" height="400" width="400"></p>
 <p><img src="http://p5ooqzjfi.bkt.clouddn.com/wechatpay.jpg" alt="打赏" height="400px" width="100%"></p>
 <p><img src="http://p5ooqzjfi.bkt.clouddn.com/%E8%8D%89%E5%8E%9F-%E9%85%8D%E5%9B%BE01.jpg" width="100%"></p>
@@ -107,17 +108,11 @@
 <li>方式2：嵌套一层div<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;div style=&quot;text-align:center&quot;&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure>
 </li>
 </ul>
-<!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 -->
-<!-- 其中 class="blockquote-center" 是必须的 -->
-<!-- <blockquote class="blockquote-center"> -->
-<!-- <img src="../../../../_posts/致/致.png" class="full-image" /> -->
-<!-- </blockquote> -->
-<!-- <blockquote></blockquote> –&gt;
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;% for(var i in page) &#123; %&gt;</span><br><span class="line">    &lt;p&gt;&lt;%- i %&gt;&lt;/p&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br><span class="line">%&gt;</span><br></pre></td></tr></table></figure>
 <h2 id="hollow-原始代码记录"><a href="#hollow-原始代码记录" class="headerlink" title="hollow 原始代码记录"></a>hollow 原始代码记录</h2><h3 id="hollow-image-layout"><a href="#hollow-image-layout" class="headerlink" title="hollow image layout"></a>hollow image layout</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">// Responsive Images</span><br><span class="line">      img</span><br><span class="line">        position relative</span><br><span class="line">        left 25%</span><br><span class="line">        margin 30px auto</span><br><span class="line">        max-width 55% !important</span><br><span class="line">        height auto</span><br><span class="line">        display inline-block</span><br><span class="line">        box-shadow 0 0 0 5px #FFF, 0 0 15px 0 #000</span><br><span class="line">      @media only screen and (max-width: 768px)</span><br><span class="line">        img &#123;</span><br><span class="line">          left 10%</span><br><span class="line">          max-width 80% !important</span><br><span class="line">        &#125;</span><br></pre></td></tr></table></figure>
 <h3 id="hollow-backhome-ejs"><a href="#hollow-backhome-ejs" class="headerlink" title="hollow backhome.ejs"></a>hollow backhome.ejs</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;a class=&quot;nav-back&quot; href=&quot;&lt;%- config.root %&gt;&quot;&gt;</span><br><span class="line">    &lt;i class=&quot;fa fa-puzzle-piece&quot;&gt;&lt;/i&gt;</span><br><span class="line">&lt;/a&gt;</span><br></pre></td></tr></table></figure>
 <p>h1等系列标签不换行<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;a class=&quot;nav-back&quot; href=&quot;&lt;%- config.root %&gt;&quot;&gt;</span><br><span class="line">    &lt;h3 style=&quot;display : inline&quot;&gt;情书和海&lt;/h3&gt;&lt;h4 style=&quot;display : inline&quot;&gt; Poems &amp; Oceans&lt;/h4&gt; </span><br><span class="line">    &lt;h6&gt;一个人的情书和海，一个人的相忘江湖&lt;/h6&gt;</span><br><span class="line">&lt;/a&gt;</span><br></pre></td></tr></table></figure></p>
-<h3 id="文本居中"><a href="#文本居中" class="headerlink" title="文本居中"></a><a href="http://theme-next.iissnan.com/tag-plugins.html">文本居中</a></h3><p>文本居中的引用<br>此标签将生成一个带上下分割线的引用，同时引用内文本将自动居中。 文本居中时，多行文本若长度不等，视觉上会显得不对称，因此建议在引用单行文本的场景下使用。 例如作为文章开篇引用 或者 结束语之前的总结引用。</p>
+<h3 id="文本居中"><a href="#文本居中" class="headerlink" title="文本居中"></a><a href="http://theme-next.iissnan.com/tag-plugins.html" target="_blank" rel="noopener">文本居中</a></h3><p>文本居中的引用<br>此标签将生成一个带上下分割线的引用，同时引用内文本将自动居中。 文本居中时，多行文本若长度不等，视觉上会显得不对称，因此建议在引用单行文本的场景下使用。 例如作为文章开篇引用 或者 结束语之前的总结引用。</p>
 <p>使用方式<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">HTML方式：使用这种方式时，给 img 添加属性 class=&quot;blockquote-center&quot; 即可。</span><br></pre></td></tr></table></figure></p>
 <h3 id="调节文章内页标题和内容的间隔"><a href="#调节文章内页标题和内容的间隔" class="headerlink" title="调节文章内页标题和内容的间隔"></a>调节文章内页标题和内容的间隔</h3><ul>
 <li><p>调节前</p>
@@ -130,18 +125,18 @@
 <h3 id="padding-属性"><a href="#padding-属性" class="headerlink" title="padding 属性"></a>padding 属性</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">padding: 0px  上下左右都为0</span><br><span class="line">padding: 0px 1px 上下为0，左右为1</span><br><span class="line">padding: 0px 1px 2px  上为0，左右为1 ，下为2</span><br><span class="line">padding: 0px 1px 2px 3px 上为0，右为1，下为2，左为3</span><br></pre></td></tr></table></figure>
 <h3 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h3><p>你可以执行下列命令来创建一篇新文章。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure></p>
 <p>在命令中指定文章的布局（layout），默认为 post。</p>
-<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p><a href="http://theme-next.iissnan.com/faqs.html">如何设置「阅读全文」？</a></p>
-<h3 id="文档"><a href="#文档" class="headerlink" title="文档"></a>文档</h3><p><a href="https://hexo.io/zh-cn/">hexo文档</a></p>
-<h3 id="w3c教程"><a href="#w3c教程" class="headerlink" title="w3c教程"></a>w3c教程</h3><p><a href="http://www.w3school.com.cn/h.asp">w3c教程</a></p>
+<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p><a href="http://theme-next.iissnan.com/faqs.html" target="_blank" rel="noopener">如何设置「阅读全文」？</a></p>
+<h3 id="文档"><a href="#文档" class="headerlink" title="文档"></a>文档</h3><p><a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo文档</a></p>
+<h3 id="w3c教程"><a href="#w3c教程" class="headerlink" title="w3c教程"></a>w3c教程</h3><p><a href="http://www.w3school.com.cn/h.asp" target="_blank" rel="noopener">w3c教程</a></p>
 <h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
--->
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+
  
                 <!-- Meta -->
                 <div class="post-meta">
